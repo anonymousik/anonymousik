@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @anonymousik
+- 👋 Hi, I’m @NieznanyNikomu
 - 👀 I’m interested in ...
+(ﾉﾟ0ﾟ)ﾉ→ANDROID DEV
+(ﾉﾟ0ﾟ)ﾉ→GITHUB DEVELOPER PROGRAM
+(´◔ゝ◔`)━☞PYTHON PROGRAMING
+╰( ･ ᗜ ･ )➝WEB DEV BACKEND
+(ﾉﾟ0ﾟ)ﾉ→WEB FRONT BACKEND
+┗(•ˇ_ˇ•)―→LINUX ADMINISTRATOR
+(☞ﾟ∀ﾟ)☞ANDROID MODDER XDA TEAM
+╰( ･ ᗜ ･ )➝MANY OTHERS...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+╰( ･ ᗜ ･ )➝WEB DEV BACKEND
+╰( ･ ᗜ ･ )➝ANDROID CUSTOM ROM DEV
 - 📫 How to reach me ...
-
-<!---
-anonymousik/anonymousik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+support@NieznanyNikomu.github.io
