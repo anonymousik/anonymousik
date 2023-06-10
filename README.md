@@ -1,3 +1,54 @@
+Unknown to anyone
+
+My name is Christopher, for friends Ferro. 
+I'm well as a passionate about broadly understood knowledge about
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+•🖌️GRAPHICS DESIGNER•
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+I also create utility graphics, among others such as:
+Banners,
+Logotypes, 
+Custom Web Design Interfaces and templates,
+(In Compliance With Regulatory Standards)
+Leaflets, 
+Business Cards,
+Editing photos
+(Broadly understood editing of photos and graphics)
+and mamy other thinkings about design
+°°°°°°°°°°°°°°°°°°°°°°°
+•🎦VIDEO EDITOR•
+°°°°°°°°°°°°°°°°°°°°°°°
+A fan of video editing in accordance with the current trends in video editing, as well as creating introductory films, static animations, and more.
+°°°°°°°°°°°°°°°°°°°°°
+•🧑‍💻DEVELOPER•
+°°°°°°°°°°°°°°°°°°°°°
+PYTHON(Scripting)
+Front-end(WebDev)
+Back-end(WebDev)
+°°°°°°°°°°°°°°°
+•⛎LINUX•
+°°°°°°°°°°°°°°°
+Server administrator(Configuration for security), 
+Databases Management,
+Personalization And Optimization
+°°°°°°°°°°°°°°°°°°°°
+•🤖ANDROID•
+°°°°°°°°°°°°°°°°°°°°
+Optimization of the Android system to maximize the performance that a smartphone can offer Testing modified custom roms, writing and editing useful scripts to improve the operation of the phone, increase performance, improve all problems that the manufacturer does not fix. 
+°°°°°°°°°°°°°°°°°°°°°°°°°°°
+•🔏LOVER OF PRIVACY•
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+Seeker of replacement google services that fully respect the user's privacy.
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+•📫 How to reach me ...?•
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+EMAIL: support@NieznanyNikomu.github.io
+GitHub: anonymousik
+Facebook: anonymousik
+
+
+
 
 ||||||||PO POLSKU||||||||
 •••••••••••••••••
