@@ -1,6 +1,26 @@
-Unknown to anyone
+Uncown to anyone Ferro 
+At the beginning of...
+"The story of Ferro"
+📫 How to reach me ...?
+
+Kontakt mailowy @NieznanyNikomu
+✉️ kontakt@NieznanyNikomu.github.io
+✉️ support@NieznanyNikomu.github.io
+✉️ nieznanynikomuu@gmail.com
+
+Kontakt z @Anonymousik w sprawię bezpieczeństwa
+✉️ kontakt@anonymousik.github.io
+
+GitHub: 
+@NieznanyNikomu / @anonymousik
+
+Facebook: https://facebook.com/ferroarty
+
+FerroART YouTube 
+https://youtube.com/@FerroART
 
 My name is Christopher, for friends Ferro. 
+
 I'm well as a passionate about broadly understood knowledge about
 
 •🖌️GRAPHICS DESIGNER•
@@ -46,10 +66,3 @@ that fully respect the user's privacy
 ✓Securing and optimizing home network
 
 Everything is performed according to current standards
-
-•📫 How to reach me ...?•
-EMAIL: support@NieznanyNikomu.github.io
-GitHub: anonymousik
-Facebook: anonymousik
-
-
