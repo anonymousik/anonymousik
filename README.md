@@ -34,22 +34,14 @@ I'm well as a passionate about broadly understood knowledge about
 
 •🖌️GRAPHICS DESIGNER•
 I also like creating
-(and editing)utility graphics, such as:
-✓Banners
-
-✓Logotypes
-
-✓Business cards
-
-✓Brochures
-
-✓Leaflets
-
-✓Promotional materials for marketing 
-
-✓Personalized letter invitations
-
-✓Personalized website design or editing of an existing one...
+(and editing)utility graphics, such as: 
+|✓|Banners
+|✓|Logotypes
+|✓|Business cards
+|✓|Brochures 
+|✓|Leaflets 
+|✓|Promotional materials for marketing 
+|✓|Personalized letter invitations |✓|Personalized website design or editing of an existing one...
 
 •🎦VIDEO EDITOR•
 A fan of video editing in accordance with the current trends in video editing,
