@@ -33,14 +33,22 @@ My name is Christopher, for friends Ferro.
 I'm well as a passionate about broadly understood knowledge about
 
 •🖌️GRAPHICS DESIGNER•
-I also like creating(and editing)utility graphics, such as:
+I also like creating
+(and editing)utility graphics, such as:
 ✓Banners
+
 ✓Logotypes
+
 ✓Business cards
+
 ✓Brochures
+
 ✓Leaflets
+
 ✓Promotional materials for marketing 
+
 ✓Personalized letter invitations
+
 ✓Personalized website design or editing of an existing one...
 
 •🎦VIDEO EDITOR•
@@ -52,13 +60,21 @@ as well as creating
 
 •⛎LINUX•
 ✓Ability to support UNIX-based servers
-✓Ability to configuration (Linux/Windows-based) servers
-✓Ability to menagment (Linux/Windows-based) servers
-✓Ability to optimization (Linux/Windows-based) servers
-✓Ability to troubleshooting (Linux/Windows-based) servers
-✓Ability to debugging (Linux/Windows-based) servers
+
+✓Ability to server configuration (Linux/Windows-based) 
+
+✓Ability to server menagment (Linux/Windows-based)
+
+✓Ability to server optimization (Linux/Windows-based) 
+
+✓Ability to server troubleshooting (Linux/Windows-based) 
+
+✓Ability to server debugging (Linux/Windows-based)
+
 ✓Ability to databases menagment on (Linux/Windows-based) servers
+
 ✓Ability to personalization platform settings tailored to user needs
+
 ✓Optimization resource consumption and possible diagnostics if the load level is too high
 
 •🤖ANDROID•
