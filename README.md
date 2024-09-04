@@ -16,10 +16,10 @@ nieznanynikomuu@gmail.com
 kontakt@anonymousik.github.io
 
 GitHub for fun: @NieznanyNikomu
-https://NieznanyNikomu.github.io
+https://github.com/NieznanyNikomu
 
 Github for Safe! @anonymousik
-https://anonymousik.github.io
+https://github.com/anonymousik
 
 Facebook: https://facebook.com/ferroarty
 
