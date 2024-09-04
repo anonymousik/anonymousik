@@ -1,15 +1,18 @@
 Uncown to anyone Ferro 
 At the beginning of...
 "The story of Ferro"
-📫 How to reach me ...?
+I WILL SHOW YOU
+📫 HOW TO REACH ME! <SOPRISE!>
+😀
+✉️Email contact @NieznanyNikomu
 
-Kontakt mailowy @NieznanyNikomu
-✉️ kontakt@NieznanyNikomu.github.io
-✉️ support@NieznanyNikomu.github.io
-✉️ nieznanynikomuu@gmail.com
+kontakt@NieznanyNikomu.github.io
+support@NieznanyNikomu.github.io
+nieznanynikomuu@gmail.com
 
-Kontakt z @Anonymousik w sprawię bezpieczeństwa
-✉️ kontakt@anonymousik.github.io
+📧 Email contact z @Anonymousik w sprawię bezpieczeństwa w sieci
+
+kontakt@anonymousik.github.io
 
 GitHub: 
 @NieznanyNikomu / @anonymousik
