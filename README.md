@@ -38,48 +38,47 @@ I also like creating
 |✓|Banners
 |✓|Logotypes
 |✓|Business cards
-|✓|Brochures 
-|✓|Leaflets 
-|✓|Promotional materials for marketing 
-|✓|Personalized letter invitations |✓|Personalized website design or editing of an existing one...
+|✓|Brochures
+|✓|Leaflets
+|✓|Promotional materials for marketing
+|✓|Personalized letter invitations
+|✓|Personalized website design or
+editing of an existing one..
 
-•🎦VIDEO EDITOR•
-A fan of video editing in accordance with the current trends in video editing,
-as well as creating 
-✓Introductory films
-✓Static animations
-✓And more...
+•🎦VIDEO&MUSIC MONTAGE EDITOR•
+A fan of video editing in accordance with the current trends in video editing, as well as creating
+
+|✓|Introductory films
+|✓|Static animations
+|✓|Remake popular music and remake static animations for new version!
 
 •⛎LINUX•
-✓Ability to support UNIX-based servers
-
-✓Ability to server configuration (Linux/Windows-based) 
-
-✓Ability to server menagment (Linux/Windows-based)
-
-✓Ability to server optimization (Linux/Windows-based) 
-
-✓Ability to server troubleshooting (Linux/Windows-based) 
-
-✓Ability to server debugging (Linux/Windows-based)
-
-✓Ability to databases menagment on (Linux/Windows-based) servers
-
-✓Ability to personalization platform settings tailored to user needs
-
-✓Optimization resource consumption and possible diagnostics if the load level is too high
+|✓|Ability to support UNIX-based servers
+|✓|Ability to server configuration (Linux/Windows-based)
+|✓|Ability to server menagment (Linux/Windows-based)
+|✓|Ability to server optimization (Linux/Windows-based)
+|✓|Ability to server troubleshooting (Linux/Windows-based)
+|✓|Ability to server debugging (Linux/Windows-based)
+|✓|Ability to servers databases menagment on (Linux/Windows-based) 
+|✓|Ability to personalizationplatform settings tailored to user needs
+|✓|Optimization resource consumption and possible diagnostics if the load level is too high
 
 •🤖ANDROID•
-✓Optimization of the Android system to maximize
+|✓|Optimization of the Android
+system to maximize
 the performance that a smartphone can offer
-✓Testing modified custom roms
-✓Writing and editing useful scripts to improve performance
-✓Improve all problems that the manufacturer does not fix
-✓In-depth analysis of the operation of all elements of Android operating systems and more..
+|✓|Testing modified custom roms
+|✓|Writing and editing useful
+scripts to improve performance
+|✓|Improve all problems that the
+manufacturer does not fix
+|✓|In-depth analysis of the
+operation of all elements of Android operating systems and more..
 
 •🔏LOVER OF PRIVACY AND OPTIMIZATION•
-✓Seeker of replacement google services
-that fully respect the user's privacy
-✓Securing and optimizing home network
+|✓|Seeker of replacement google services that fully respect the user's privacy
+|✓|Securing and optimizing home network
 
-Everything is performed according to current standards
+Everything is performed according to current standards ❗
+
+FerroART 👈
