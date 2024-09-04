@@ -2,8 +2,10 @@ Uncown to anyone Ferro
 At the beginning of...
 "The story of Ferro"
 I WILL SHOW YOU
-📫 HOW TO REACH ME! <SUPRISE!>
-😀
+📫 HOW TO REACH ME!? <SUPRISE!>
+
+The Unknown Community: (NEW!)
+https://github.com/orgs/NieznanyNikomu/discussions
 
 ✉️Email contact @NieznanyNikomu
 kontakt@NieznanyNikomu.github.io
